@@ -8,3 +8,4 @@
 ! /REGEX/:阻止访问与指定的正则表达式匹配的域名。
 !
 @@||sdk.e.qq.com^
+@@||ii.gdt.qq.com^
